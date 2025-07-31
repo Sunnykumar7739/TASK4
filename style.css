@@ -11,9 +11,6 @@ html, body {
 main {
   flex: 1;
 }
-
-/* Created By Yash kumar Banjare... */
-
 /* Filter Section */
 .filter-section {
   text-align: center;
@@ -35,8 +32,6 @@ main {
   background: linear-gradient(to right, #2f80ed, #56ccf2);
   transform: scale(1.05);
 }
-/* Created By Yash kumar Banjare... */
-
 /* Info Section */
 .info-section {
   text-align: center;
@@ -53,8 +48,6 @@ body {
   background: linear-gradient(to bottom right, #d0eafc, #f5d0fc);
   color: #333;
 }
-/* Created By Yash kumar Banjare... */
-
 /* Header */
 header {
   text-align: center;
@@ -68,7 +61,6 @@ header h1 {
   margin: 0;
   font-size: 2.5em;
 }
-/* Created By Yash kumar Banjare... */
 header p {
   margin-top: 10px;
   font-size: 1.1em;
@@ -83,7 +75,6 @@ header p {
   margin: 20px;
   border-radius: 10px;
 }
-/* Created By Yash kumar Banjare... */
 .task-form input {
   padding: 10px;
   margin: 5px;
@@ -105,7 +96,7 @@ header p {
 .task-form button:hover {
   background: linear-gradient(to right, #fc6767, #ec008c);
   transform: scale(1.05);
-}/* Created By Yash kumar Banjare... */
+}
 
 /* Task List Section */
 .task-section {
@@ -122,7 +113,7 @@ header p {
 #taskList {
   list-style: none;
   padding: 0;
-}/* Created By Yash kumar Banjare... */
+}
 
 .task-item {
   display: flex;
@@ -139,7 +130,6 @@ header p {
 .task-item:hover {
   transform: scale(1.02);
 }
-/* Created By Yash kumar Banjare... */
 .task-item.completed span {
   text-decoration: line-through;
   opacity: 0.6;
@@ -155,7 +145,6 @@ header p {
   color: white;
   transition: background 0.3s;
 }
-/* Created By Yash kumar Banjare... */
 .task-item button:hover {
   background: rgba(255, 255, 255, 0.4);
 }
@@ -168,5 +157,3 @@ footer {
   color: #eee;
   margin-top: 30px;
 }
-
- /* Created By Yash kumar Banjare... */
